@@ -1,0 +1,28 @@
+[
+  {
+    "id": "other001",
+    "title": "NASA GeneLab: interfaces for the exploration of space omics data",
+    "tags": ["data", "omics", "analysis", "tools", "education", "research", "spaceflight"],
+    "short_summary": "NASA’s GeneLab makes space biology data easy to explore!",
+    "long_summary": "GeneLab is a NASA project that collects and shares a huge variety of biological data from space experiments, including genes, proteins, and metabolites. Scientists, students, and educators can use GeneLab’s tools to explore these datasets, analyze molecular responses to spaceflight, and generate new research ideas. The platform also includes online portals, APIs, and educational programs to make the data accessible and useful for everyone from high school students to professional researchers. These efforts help improve understanding of how space environments affect living organisms and support safer human space exploration.",
+    "key_findings": [
+      "GeneLab provides open access to multi-omics data from spaceflight experiments.",
+      "The platform includes tools and APIs to visualize and analyze data for research and education.",
+      "Educational programs and working groups expand usage and encourage novel discoveries using space biology data."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7778922/"
+  },
+  {
+    "id": "other002",
+    "title": "Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome",
+    "tags": ["microbial", "resistance", "analysis", "AI", "health", "spaceflight"],
+    "short_summary": "AI helps track antibiotic resistance on the ISS!",
+    "long_summary": "Scientists used a deep learning algorithm to study antimicrobial resistance (AMR) in microbes living on surfaces aboard the International Space Station (ISS). They analyzed metagenomes and whole-genome sequences from various ISS locations and found that several microbes carried genes making them resistant to multiple antibiotics. The study confirmed that computational predictions matched well with traditional lab tests and highlighted certain bacteria with potential pathogenicity. Understanding these microbial communities is important for astronaut health and planning long-duration space missions.",
+    "key_findings": [
+      "Multiple microbes on ISS surfaces show multi-drug resistance to antibiotics.",
+      "Deep learning predictions of AMR genes matched well with lab-tested antibiotic resistance.",
+      "Some ISS microbes carry virulence factors, indicating potential human health risks."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9400218/"
+  }
+]

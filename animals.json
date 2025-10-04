@@ -1,0 +1,95 @@
+[
+  {
+    "id": "animals001",
+    "title": "Mice in Bion-M 1 Space Mission: Training and Selection",
+    "tags": ["growth", "behavior", "stress", "adaptation"],
+    "short_summary": "Mouse astronauts: training mice for space life!",
+    "long_summary": "Scientists trained and selected male mice to study how their bodies adapt to long-term spaceflight aboard the Bion-M 1 satellite. They focused on social housing, handling, and a special paste diet to reduce aggression and stress. Mice were monitored before, during, and after the flight for behavior, food and water intake, and physiological responses. The study shows that proper training and environmental enrichment can prepare mice for complex space experiments.",
+    "key_findings": [
+      "Extensive handling and environmental enrichment improved social co-adaptation and reduced aggression among male mice.",
+      "Mice adapted well to the paste food diet, which significantly increased water intake and urine output without adverse effects.",
+      "After the 30-day spaceflight, mice were in good condition but displayed signs of readjustment to Earth's gravity."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4136787/"
+  },
+  {
+    "id": "animals002",
+    "title": "Adaptive Changes in the Vestibular System of Land Snail to a 30-Day Spaceflight and Readaptation on Return to Earth",
+    "tags": ["behavior", "neural", "adaptation", "stress"],
+    "short_summary": "Snail astronauts: how space changes balance and behavior!",
+    "long_summary": "Researchers studied land snails that spent 30 days in space to see how their balance system, the vestibular system, adapts to weightlessness. They measured snails' movements, tentacle positions, and nerve responses both after spaceflight and during readaptation to Earth's gravity. The snails showed changes in behavior and physiology as a response to microgravity, but were able to readapt within about 20 hours after returning. This study shows that even creatures evolved for constant gravity can adjust to its temporary absence.",
+    "key_findings": [
+      "Postflight snails displayed altered tentacle movements and gravitaxis behavior due to vestibular system adaptation to microgravity.",
+      "Electrophysiological responses of snail statocysts were stronger after spaceflight, indicating neural compensation for gravity loss.",
+      "Snails readapted to Earth's gravity within ~20 hours, showing reversible plasticity in their vestibular system."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5672023/"
+  },
+  {
+    "id": "animals003",
+    "title": "Morphology of the Utricular Otolith Organ in the Toadfish, Opsanus tau",
+    "tags": ["neural", "sensory", "development", "adaptation"],
+    "short_summary": "Exploring the inner ear of toadfish: the balance blueprint!",
+    "long_summary": "This study maps the structure of the utricle, a key balance organ, in the adult toadfish. Using various microscopy techniques, researchers detailed the arrangement of hair cells, synapses, and nerve connections that help the fish sense gravity and motion. The study provides a foundation to understand how the utricle adapts to changes in gravitational environments, such as during spaceflight. It also highlights variations in hair cell density and synaptic organization that could influence how sensory signals are processed.",
+    "key_findings": [
+      "Hair cells are organized into distinct zones with varying density and synaptic bodies, affecting sensory processing.",
+      "The utricle structure in toadfish is broadly similar to other vertebrates, supporting comparative studies of balance organs.",
+      "Efferent innervation of the utricle is weaker than in semicircular canals, suggesting differences in sensitivity control."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5899691/"
+  },
+  {
+    "id": "animals004",
+    "title": "Development of Otolith Receptors in Japanese Quail",
+    "tags": ["neural", "sensory", "development", "growth"],
+    "short_summary": "Tracking how quail balance sensors grow and wire up!",
+    "long_summary": "This study examines how the otolith vestibular receptors develop in Japanese quail, detailing epithelial growth, hair cell formation, stereocilia polarization, and afferent nerve innervation. Hair cells in the striola develop first, followed by extrastriolar regions. Planar cell polarity of stereocilia establishes directional sensitivity early in development, reaching adult patterns by E10. Afferent innervation progresses from bouton fibers to dimorph and finally calyx afferents. The spatial organization of afferents in adult quail mirrors patterns seen in other birds, with calyx afferents in striola and bouton fibers in extrastriola. The study provides insight into the developmental sequence of hair cells and afferent wiring that underlies vestibular function in birds.",
+    "key_findings": [
+      "Hair cell density and development follow a precise spatial and temporal pattern: striolar first, extrastriolar later.",
+      "Planar polarity of stereocilia forms early and migrates to adult configurations, establishing directional sensitivity.",
+      "Afferent fibers develop sequentially: bouton first, dimorph second, and calyx last, forming a patterned innervation across the macula.",
+      "Calyx afferents have large axons and fewer hair cell contacts, dimorph afferents are diverse and multi-branched, and bouton afferents have extensive arborization."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2910419/"
+  },
+  {
+    "id": "animals005",
+    "title": "Microbial Profiles from Injured and Non-Regenerating Tissue in Ozark Hellbender Salamanders",
+    "tags": ["microbial", "injury", "stress", "conservation"],
+    "short_summary": "Investigating microbes linked to injuries and slowed healing in endangered Ozark Hellbenders.",
+    "long_summary": "This study explored the microorganisms associated with abnormal, injured, and poorly regenerating tissue in the endangered Ozark Hellbender salamander (Cryptobranchus alleganiensis bishopi). By culturing and identifying bacteria and fungi from affected and unaffected individuals, researchers found opportunistic pathogens, including Aeromonas hydrophila, Pseudomonas spp., Granulicatella adiacens, Stenotrophomonas maltophilia, Streptococcus pneumoniae, and filamentous fungi like Penicillium, Fusarium, and Cladosporium. These microbes, many capable of forming biofilms, were mostly present only in injured tissue, suggesting they may exacerbate tissue damage but are unlikely the sole cause. Human-induced habitat changes, nutrient loading, algal blooms (e.g., Cladophora spp.), reintroduced species such as river otters and hatchery trout, and recreational disturbances may increase injury and microbial exposure. While causation could not be confirmed due to the endangered status of the species, this work provides the most comprehensive profile of external microbial consortia in Cryptobranchid salamanders and highlights multiple factors potentially contributing to population decline.",
+    "key_findings": [
+      "Opportunistic pathogens were isolated primarily from injured or abnormal tissues, including Aeromonas hydrophila, Pseudomonas spp., and Granulicatella adiacens.",
+      "Many microbial isolates are capable of biofilm formation, which may enhance infection and antimicrobial resistance.",
+      "Injury sources may include human activity, reintroduced predators, and environmental changes such as eutrophication and algal blooms.",
+      "The retardation of tissue regeneration in Ozark Hellbenders may result from a combination of microbial infection, immune suppression, and habitat alterations."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3242767/"
+  },
+  {
+    "id": "animals006",
+    "title": "Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver",
+    "tags": ["metabolism", "stress", "adaptation", "omics"],
+    "short_summary": "Space mice get fatty livers in orbit!",
+    "long_summary": "Scientists studied how spaceflight affects the livers of mice by analyzing multiple datasets from missions on the ISS. They looked at gene expression, proteins, and liver tissue to see how microgravity and space stressors change lipid metabolism. They found that spaceflight caused abnormal fat buildup in the liver, altered key metabolic pathways, and affected proteins that help process lipids. These changes were seen in different mouse strains and across mission durations, suggesting that space alone can trigger liver issues. The results hint that similar problems could occur in humans during long-term space missions.",
+    "key_findings": [
+      "Spaceflight caused abnormal lipid accumulation in mouse livers.",
+      "Genes and proteins related to lipid metabolism, fatty acid processing, and glucose regulation were disrupted.",
+      "Changes occurred in multiple mouse strains and across different mission durations, indicating a general effect of space environment."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6915713/"
+  },
+  {
+    "id": "animals007",
+    "title": "Effects of spaceflight aboard the International Space Station on mouse estrous cycle and ovarian gene expression",
+    "tags": ["reproduction", "hormones", "adaptation", "stress"],
+    "short_summary": "Female mice keep their cycles in space!",
+    "long_summary": "Scientists studied how long-term spaceflight affects the reproductive cycles and ovarian function of female mice. Mice spent 37 days on the ISS in microgravity, and their ovarian and vaginal tissues were analyzed for hormone levels and gene expression. The study found that mice continued to show normal estrous cycles, and ovarian gene expression related to steroid production was mostly unchanged. Progesterone levels were slightly lower in some space and habitat control mice, but estradiol stayed the same. These findings suggest female mice can maintain reproductive cycling during extended time in space.",
+    "key_findings": [
+      "Female mice exhibited normal estrous cycles even after 37 days in space.",
+      "Ovarian steroid-related gene expression did not significantly change between flight and control groups.",
+      "Progesterone levels were slightly lower in space and habitat control mice, while estradiol remained stable."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7954810/"
+  }
+]

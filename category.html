@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category - Cellstronaut</title>
+    <link rel="icon" type="image/png" href="img/logo.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="index.html" class="logo-wrapper">
+                <img src="img/logo.png" alt="Cellstronaut Logo" class="logo-icon">
+                <span class="logo-text">
+                    <span class="logo-cell">Cell</span><span class="logo-stronaut">stronaut</span>
+                </span>
+            </a>
+            <div class="search-wrapper">
+                <input type="text" class="search-bar" id="header-search" placeholder="Search experiments...">
+                <button class="lucky-button">I'm Lucky</button>
+            </div>
+            <nav class="nav-links">
+                <a href="about.html" class="nav-link">About</a>
+                <div class="lang-separator"></div>
+                <a href="#" class="lang-option" data-lang="ua">UA</a>
+                <a href="#" class="lang-option active" data-lang="en">ENG</a>
+            </nav>
+        </header>
+
+        <main>
+            <section class="category-header">
+                 <h1 class="category-title" id="category-title"></h1>
+                <p class="category-subtitle" id="category-subtitle"></p>
+            </section>
+
+            <section class="filter-status hidden" id="filter-status-bar">
+                <span>Filtering by Tag:</span>
+                <span class="tag active-filter-tag" id="active-filter-display"></span>
+                <button class="clear-filter-btn" id="clear-filter-button">&times; Clear</button>
+            </section>
+
+            <section class="filter-toolbar">
+                <span class="filter-toolbar-title">Quick Filters:</span>
+                <div class="quick-filter-tags">
+                    <span class="tag" data-tag="growth">Growth</span>
+                    <span class="tag" data-tag="genetics">Genetics</span>
+                    <span class="tag" data-tag="food">Food</span>
+                    <span class="tag" data-tag="health">Health</span>
+                </div>
+            </section>
+
+            <section class="experiment-grid" id="experiment-grid"></section>
+        </main>
+
+        <footer class="site-footer">
+            <p>&copy; 2025 Cellstronaut. Made by mossware.</p>
+        </footer>
+    </div>
+
+    <div class="modal-overlay" id="experiment-modal">
+        <div class="modal-content">
+            <button class="modal-close-button">&times;</button>
+            <img src="img/placeholder-plant.jpg" alt="Experiment Visual" class="modal-img">
+            <h2 class="modal-title"></h2>
+            <div class="modal-tags"></div>
+            <p class="modal-full-summary"></p>
+            <h3 class="modal-findings-title">Key Findings:</h3>
+            <ul class="modal-findings-list"></ul>
+            <a href="#" class="modal-source-link" target="_blank">Read original NASA article &rarr;</a>
+        </div>
+    </div>
+
+    <div id="toast-notification" class="toast"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="lucky.js"></script>
+    <script src="category-script.js"></script>
+</body>
+</html>

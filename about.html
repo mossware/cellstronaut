@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Space Biology - Cellstronaut</title>
+    <link rel="icon" type="image/png" href="img/logo.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <a href="index.html" class="logo-wrapper">
+                <img src="img/logo.png" alt="Cellstronaut Logo" class="logo-icon">
+                <span class="logo-text">
+                    <span class="logo-cell">Cell</span><span class="logo-stronaut">stronaut</span>
+                </span>
+            </a>
+            <div class="search-wrapper">
+                <input type="text" class="search-bar" id="header-search" placeholder="Search experiments...">
+                <button class="lucky-button">I'm Lucky</button>
+            </div>
+            <nav class="nav-links">
+                <a href="about.html" class="nav-link">About</a>
+                <div class="lang-separator"></div>
+                <a href="#" class="lang-option" data-lang="ua">UA</a>
+                <a href="#" class="lang-option active" data-lang="en">ENG</a>
+            </nav>
+        </header>
+
+        <main class="about-page-content">
+            <h1 class="about-main-title">What is <span class="highlight-text">Space Biology?</span></h1>
+
+            <section class="about-section">
+                <div class="about-text-content">
+                    <p class="about-text">
+                        Space biology is the scientific study of how life adapts and changes in the unique environment of space. On Earth, all life has evolved under the constant pull of gravity. In space, factors like microgravity, increased radiation, and confined habitats create new challenges and opportunities for living organisms. By studying everything from tiny microbes to complex human systems, scientists can uncover fundamental insights into how life works.
+                    </p>
+                </div>
+                <figure class="about-figure">
+                    <img src="img/about_1.jpg" alt="Astronaut Christina Koch working with the BioFabrication Facility on the ISS" class="about-image">
+                    <figcaption class="image-caption">
+                        NASA astronaut Christina Koch works with the BioFabrication Facility, a 3D printer designed to test the printing of complex human tissues in microgravity.
+                    </figcaption>
+                </figure>
+            </section>
+
+            <section class="about-section reverse-layout">
+                <div class="about-text-content">
+                    <h2 class="about-subtitle">Why It Matters for Future Missions</h2>
+                    <p class="about-text">
+                        As humanity prepares for long-duration missions to the Moon, Mars, and beyond, understanding space biology is not just an academic exercise—it's essential for survival. This research helps us develop strategies to keep astronauts healthy, grow our own food in space, protect against cosmic radiation, and build sustainable life-support systems far from Earth. Every experiment is a stepping stone toward becoming a true multi-planetary species.
+                    </p>
+                </div>
+                <figure class="about-figure">
+                    <img src="img/about_2.jpg" alt="Astronaut Scott Tingle tending to plants in the VEGGIE habitat" class="about-image">
+                    <figcaption class="image-caption">
+                        Astronaut Scott Tingle tends to leafy greens in the Veggie habitat. This system allows crews to grow their own fresh food, vital for nutrition and morale on long missions.
+                    </figcaption>
+                </figure>
+            </section>
+
+            <section class="about-section-full">
+                <h2 class="about-subtitle">A Brief Timeline of Milestones</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-year">1947</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">First Life in Space</h3>
+                            <p>Fruit flies are launched aboard a U.S. V-2 rocket, becoming the first animals to reach space and be recovered alive.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-year">1957</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">First Animal to Orbit Earth</h3>
+                            <p>The Soviet dog Laika becomes the first animal to orbit the Earth, providing crucial data on a living creature's response to spaceflight.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-year">1960</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">First Plants Grown in Space</h3>
+                            <p>Wheat, peas, and corn are successfully grown from seeds aboard Sputnik 4, proving that plants can germinate in microgravity.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-year">1983</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">Spacelab Establishes Research Platform</h3>
+                            <p>The first Spacelab mission provides a sophisticated laboratory for detailed human and cellular biology experiments in orbit.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-year">2015</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">First Food Grown & Eaten in Space</h3>
+                            <p>Astronauts aboard the ISS harvest and eat 'Outredgeous' red romaine lettuce grown in the Veggie habitat.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-year">2019</div>
+                        <div class="timeline-content">
+                            <h3 class="timeline-title">NASA Twins Study Concludes</h3>
+                            <p>NASA completes its landmark study of twin astronauts, providing unprecedented insights into how a year in space affects the human body.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <p>&copy; 2025 Cellstronaut. Made by mossware.</p>
+        </footer>
+    </div>
+
+    <div id="toast-notification" class="toast"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="lucky.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let toastTimeout;
+            function showToast(message) {
+                const toast = document.getElementById('toast-notification');
+                toast.textContent = message;
+                toast.classList.add('show');
+                clearTimeout(toastTimeout);
+                toastTimeout = setTimeout(() => { toast.classList.remove('show'); }, 3000);
+            }
+
+            document.querySelectorAll('.lang-option').forEach(option => {
+                option.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    if (option.dataset.lang === 'ua') {
+                        showToast("Coming soon! Sorry for the inconvenience.");
+                    }
+                });
+            });
+
+            document.getElementById('header-search').addEventListener('keydown', e => {
+                 if (e.key === 'Enter') {
+                    const searchTerm = e.target.value.trim();
+                    if (searchTerm) {
+                        window.location.href = `category.html?search=${encodeURIComponent(searchTerm)}`;
+                    }
+                 }
+            });
+
+            const luckyButton = document.querySelector('.lucky-button');
+            if (luckyButton) {
+                luckyButton.addEventListener('click', handleLuckyClick);
+            }
+
+            // GSAP Animations
+            gsap.set(['header', '.about-main-title', '.about-section', '.about-section-full'], { autoAlpha: 0, y: 30 });
+            const tl = gsap.timeline({ defaults: { ease: "power3.out" } });
+            tl.to('header', { y: 0, autoAlpha: 1, duration: 1 })
+              .to('.about-main-title', { y: 0, autoAlpha: 1, duration: 0.8 }, "-=0.7")
+              .to('.about-section', { y: 0, autoAlpha: 1, duration: 0.8, stagger: 0.2 }, "-=0.6")
+              .to('.about-section-full', { y: 0, autoAlpha: 1, duration: 0.8 }, "-=0.5");
+        });
+    </script>
+</body>
+</html>

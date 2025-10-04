@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cellstronaut - NASA Space Biology Experiments</title>
+    <link rel="icon" type="image/png" href="img/logo.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+             <a href="index.html" class="logo-wrapper">
+                <img src="img/logo.png" alt="Cellstronaut Logo" class="logo-icon">
+                <span class="logo-text">
+                    <span class="logo-cell">Cell</span><span class="logo-stronaut">stronaut</span>
+                </span>
+            </a>
+            <div class="search-wrapper">
+                <input type="text" class="search-bar" id="header-search" placeholder="Search experiments..." data-key="search_placeholder">
+                <button class="lucky-button" data-key="lucky_button">I'm Lucky</button>
+            </div>
+            <nav class="nav-links">
+                <a href="about.html" class="nav-link">About</a>
+                <div class="lang-separator"></div>
+                <a href="#" class="lang-option" data-lang="ua">UA</a>
+                <a href="#" class="lang-option active" data-lang="en">ENG</a>
+            </nav>
+        </header>
+
+        <main>
+            <h1 class="main-headline" data-key="main_headline">Explore decades of NASA’s space biology experiments in <span class="highlight-text">one place.</span></h1>
+            <p class="sub-headline" data-key="sub_headline">Humans, plants, animals, and microbes in space — simplified, summarized, and searchable.</p>
+        </main>
+
+        <section class="categories">
+            <a href="category.html?cat=plants" class="category-card" id="plants">
+                <img src="img/plant.svg" alt="Plants in Space" class="card-icon">
+                <span class="card-title" data-key="category_plants">Plants</span>
+            </a>
+            <a href="category.html?cat=animals" class="category-card" id="animals">
+                <img src="img/animal.svg" alt="Animals in Space" class="card-icon">
+                <span class="card-title" data-key="category_animals">Animals</span>
+            </a>
+            <a href="category.html?cat=humans" class="category-card" id="humans">
+                <img src="img/human.svg" alt="Humans in Space" class="card-icon">
+                <span class="card-title" data-key="category_humans">Humans</span>
+            </a>
+            <a href="category.html?cat=other" class="category-card" id="other">
+                <img src="img/other.svg" alt="Other Space Biology" class="card-icon">
+                <span class="card-title" data-key="category_other">Other</span>
+            </a>
+        </section>
+
+        <section class="cta-section">
+            <div class="cta-text">
+                <h3 data-key="cta_title">What is Space Biology?</h3>
+                <p data-key="cta_subtitle">Discover the science behind keeping life thriving in the final frontier.</p>
+            </div>
+            <a href="about.html" class="cta-button">Explore the Story &rarr;</a>
+        </section>
+
+        <footer class="site-footer">
+            <p>&copy; 2025 Cellstronaut. Made by mossware.</p>
+        </footer>
+    </div>
+
+    <div id="toast-notification" class="toast"></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="lucky.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

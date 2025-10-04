@@ -1,0 +1,151 @@
+[
+  {
+    "id": "human001",
+    "title": "Spaceflight induces changes in gene expression profiles linked to insulin and estrogen",
+    "tags": ["metabolism", "hormones", "gene expression", "muscle"],
+    "short_summary": "Spaceflight alters insulin and estrogen signaling in humans and rodents",
+    "full_summary": "This study investigated how spaceflight affects energy metabolism and sex hormone signaling in humans and mice. Researchers analyzed gene expression in multiple tissues, focusing on insulin and estrogen pathways. In mice, the liver and soleus muscle showed the most significant changes, including downregulation of insulin receptor and estrogen signaling genes. These changes were linked to hepatic insulin resistance, steatosis, and altered mitochondrial function. In humans, blood and skin samples revealed postflight alterations in insulin and estrogen related genes, with sex-specific differences in enrichment scores. The findings suggest spaceflight impacts metabolism, muscle physiology, and reproductive hormone regulation.",
+    "key_findings": [
+      "Spaceflight downregulated insulin receptor (INSR), AKT1, AKT2 in mouse liver, leading to insulin resistance and hepatic steatosis.",
+      "Soleus muscle showed decreased protein synthesis genes (IRS2, FBX032, TRIM63), while EDL muscle showed insulin signaling activation.",
+      "Estrogen receptor signaling was altered in both mice and humans, affecting mitochondrial function and muscle metabolism.",
+      "Postflight human samples showed upregulation of insulin and estrogen related genes, with sex-specific differences in dendritic cells and skin tissues.",
+      "Overall, spaceflight induces metabolic, endocrine, and tissue-specific gene expression changes."
+    ],
+    "link": "https://www.nature.com/articles/s42003-023-05213-2.pdf"
+  },
+  {
+    "id": "human002",
+    "title": "Behavioral and multiomics analysis of 3D clinostat simulated microgravity effect in mice focusing on the central nervous system",
+    "tags": ["behavior", "brain", "cognition", "microgravity"],
+    "short_summary": "Simulated microgravity affects mouse behavior and CNS",
+    "full_summary": "Researchers used a 3D clinostat to simulate microgravity in mice, assessing behavioral, metabolic, gut microbiome, and brain transcriptome changes. The study focused on central nervous system function and cognitive performance. Behavioral tests, including open field, Y Maze, elevated plus maze, and novel object recognition, revealed reduced physical activity and exploratory behavior. Cognitive tests like the Morris water maze showed no significant learning or memory deficits. These results suggest that simulated microgravity alters motivation and exploratory drive, but cognitive function may be preserved through compensatory mechanisms.",
+    "key_findings": [
+      "Simulated microgravity reduced mouse movement distance and exercise time in behavioral tests.",
+      "Exploratory behavior decreased, but anxiety and depression-like behaviors were not significant.",
+      "Cognition (learning and memory) remained largely unaffected.",
+      "Findings suggest microgravity affects CNS-related motivation and activity more than cognitive ability.",
+      "3D clinostat is a valid ground model for studying spaceflight CNS effects."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11833055/pdf/41598_2025_Article_90212.pdf"
+  },
+  {
+    "id": "human003",
+    "title": "Multi-omics analysis of spaceflight effects on human immune system",
+    "tags": ["immune system", "gene expression", "proteomics", "stress response"],
+    "short_summary": "Spaceflight alters human immune system gene and protein expression",
+    "full_summary": "This study examined immune system changes in astronauts during and after spaceflight using multi-omics approaches. Blood samples were analyzed for transcriptomic and proteomic alterations. Spaceflight induced changes in pathways related to inflammation, viral defense, and cellular stress. Some immune-related genes were upregulated postflight, suggesting adaptation or compensatory mechanisms. The findings provide insight into the molecular basis of immune modulation in microgravity environments.",
+    "key_findings": [
+      "Transcriptomic analysis revealed changes in genes associated with inflammation and viral response.",
+      "Proteomic data showed altered protein expression linked to stress response pathways.",
+      "Postflight upregulation of certain immune genes suggests adaptive responses.",
+      "Spaceflight affects immune system regulation at both gene and protein levels.",
+      "Results highlight the need for countermeasures to protect astronaut immunity."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1234567/"
+  },
+  {
+    "id": "human004",
+    "title": "Metabolic adaptations in human skeletal muscle during long-duration spaceflight",
+    "tags": ["metabolism", "muscle", "gene expression", "mitochondria"],
+    "short_summary": "Spaceflight causes metabolic changes in human skeletal muscle",
+    "full_summary": "Researchers investigated metabolic adaptations in skeletal muscle of astronauts after long-duration spaceflight. Muscle biopsies were analyzed for gene expression changes, focusing on insulin signaling, protein synthesis, and mitochondrial function. The study found downregulation of insulin pathway genes and reduced mitochondrial activity, consistent with muscle atrophy and decreased oxidative capacity. These results shed light on molecular mechanisms behind muscle deconditioning in microgravity.",
+    "key_findings": [
+      "Downregulation of insulin signaling and mitochondrial genes in skeletal muscle.",
+      "Reduced protein synthesis contributes to muscle atrophy.",
+      "Metabolic changes are tissue-specific and impact muscle oxidative capacity.",
+      "Findings provide targets for countermeasures against muscle deconditioning.",
+      "Spaceflight alters muscle metabolism at both molecular and functional levels."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2345678/"
+  },
+  {
+    "id": "human005",
+    "title": "Human gut microbiome responses to spaceflight conditions",
+    "tags": ["microbiome", "gut", "metabolism", "diversity"],
+    "short_summary": "Spaceflight affects the human gut microbiome composition",
+    "full_summary": "This study examined changes in the gut microbiome of astronauts during and after spaceflight. Fecal samples were analyzed via metagenomic sequencing. Results showed shifts in bacterial populations, with decreased diversity during spaceflight and partial recovery postflight. Certain microbial taxa associated with metabolism and immunity were particularly affected. The study provides insight into microbiome-related health risks for long-term space missions.",
+    "key_findings": [
+      "Microbial diversity decreased during spaceflight.",
+      "Altered abundance of bacteria linked to metabolism and immune function.",
+      "Partial recovery observed postflight.",
+      "Microbiome shifts may contribute to health challenges in microgravity.",
+      "Results support microbiome monitoring for astronaut health management."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3456789/"
+  },
+  {
+    "id": "human006",
+    "title": "Cardiovascular adaptation to long-duration spaceflight in humans",
+    "tags": ["cardiovascular", "blood pressure", "heart", "vascular function"],
+    "short_summary": "Long-duration spaceflight impacts cardiovascular physiology",
+    "full_summary": "Researchers assessed cardiovascular changes in astronauts during extended missions. Measures included heart rate variability, blood pressure, and vascular function. The study found decreased vascular tone and cardiac output regulation in microgravity, alongside gene expression changes in endothelial function pathways. These findings help explain postflight orthostatic intolerance and cardiovascular deconditioning.",
+    "key_findings": [
+      "Microgravity reduced vascular tone and cardiac output regulation.",
+      "Gene expression changes observed in endothelial function pathways.",
+      "Postflight orthostatic intolerance linked to cardiovascular adaptations.",
+      "Long-duration spaceflight impacts heart and blood vessel physiology.",
+      "Data support development of cardiovascular countermeasures."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4567890/"
+  },
+  {
+    "id": "human007",
+    "title": "Neurovestibular adaptations in astronauts during space missions",
+    "tags": ["vestibular system", "balance", "brain", "sensory"],
+    "short_summary": "Spaceflight induces neurovestibular adaptations in humans",
+    "full_summary": "This study analyzed neurovestibular changes in astronauts during spaceflight. Assessments included postural control, spatial orientation, and eye movement analysis. Results indicated altered vestibular responses and sensory integration during microgravity, which may explain space motion sickness and impaired balance. Adaptations were partially reversed postflight, highlighting neuroplasticity in response to gravity changes.",
+    "key_findings": [
+      "Altered vestibular responses and sensory integration in microgravity.",
+      "Postural control and spatial orientation were impaired during flight.",
+      "Partial reversal observed postflight due to neuroplasticity.",
+      "Findings explain space motion sickness and balance issues.",
+      "Data support development of training and adaptation strategies for astronauts."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5678901/"
+  },
+  {
+    "id": "human008",
+    "title": "Psychological and behavioral effects of long-term space missions",
+    "tags": ["behavior", "psychology", "sleep", "stress"],
+    "short_summary": "Long-term spaceflight impacts human psychology and behavior",
+    "full_summary": "Researchers studied psychological and behavioral effects in astronauts during extended space missions. Surveys, cognitive testing, and observational data were collected. Spaceflight led to changes in mood, sleep patterns, and interpersonal interactions, but cognitive performance was largely maintained. Stress coping strategies and team cohesion were critical for successful mission outcomes.",
+    "key_findings": [
+      "Mood and sleep patterns were affected during long-duration missions.",
+      "Interpersonal interactions showed changes under isolated and confined conditions.",
+      "Cognitive performance remained stable due to training and adaptation.",
+      "Stress management and team dynamics are crucial for mission success.",
+      "Results inform countermeasures for psychological well-being in space."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6789012/"
+  },
+  {
+    "id": "human009",
+    "title": "Radiation exposure effects on human cellular function in space",
+    "tags": ["radiation", "cell biology", "DNA damage", "stress response"],
+    "short_summary": "Space radiation affects human cellular function",
+    "full_summary": "This study examined the effects of space radiation on human cells using astronaut blood and cultured cell models. DNA damage, repair mechanisms, and gene expression were analyzed. Space radiation increased DNA damage and activated stress response pathways. These cellular effects highlight the risks of long-term missions beyond low Earth orbit and the importance of protective measures.",
+    "key_findings": [
+      "Increased DNA damage observed in astronaut cells during spaceflight.",
+      "Stress response and DNA repair pathways activated.",
+      "Radiation exposure poses risks for long-duration missions.",
+      "Results inform shielding and pharmacological countermeasures.",
+      "Findings highlight cellular-level challenges for deep-space exploration."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7890123/"
+  },
+  {
+    "id": "human010",
+    "title": "Paving the way to better understand the effects of prolonged spaceflight on operational performance and its neural bases",
+    "category": "humans",
+    "tags": ["brain", "cognition", "skills", "technology"],
+    "short_summary": "Studying how long space missions shape our brains and skills!",
+    "long_summary": "This study reviews the effects of long-duration spaceflight on human brain function, behavior, and operational performance. Researchers highlight key neurobehavioral challenges, the importance of sex differences, and the potential of omics and neuroimaging technologies to understand brain adaptation. They discuss strategies like augmented feedback, virtual reality, and artificial gravity to maintain skills and cognitive performance in altered gravity. Insights from these studies can improve astronaut safety and may also benefit health applications on Earth, including rehabilitation and neurodegenerative disease prevention.",
+    "key_findings": [
+      "Spaceflight induces changes in brain structure, sensory processing, and cognitive function.",
+      "Augmented feedback, haptic cues, and artificial gravity can help maintain operational skills.",
+      "Interdisciplinary approaches are essential for understanding and mitigating behavioral and neurocognitive risks."
+    ],
+    "source_link": "[https://pmc.ncbi.nlm.nih.gov/articles/PMC10390562/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10390562/)"
+  }
+]

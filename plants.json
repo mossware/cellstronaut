@@ -1,0 +1,100 @@
+[
+  {
+    "id": "plant001",
+    "title": "TNO1, a TGN-localized SNARE-interacting protein, modulates root skewing in Arabidopsis thaliana",
+    "tags": ["growth", "cell biology", "cytoskeleton", "protein function"],
+    "short_summary": "TNO1 protein affects root skewing in Arabidopsis",
+    "full_summary": "This study examined how the TGN-localized protein TNO1 influences root directional growth in Arabidopsis thaliana. Researchers analyzed tno1 knockout mutants for root skewing and epidermal cell rotation under microtubule stabilization and destabilization conditions. Microtubule array orientation was unaffected, indicating TNO1 regulates cell file rotation independently. The study also examined mature root and hypocotyl regions for cell morphology maintenance. Findings highlight the role of TNO1 and the trans-Golgi SNARE machinery in epidermal cell orientation and expansion during root growth.",
+    "key_findings": [
+      "tno1 mutants displayed enhanced root skewing and increased epidermal cell file rotation.",
+      "Microtubule stabilization increased skewing, while destabilization caused severe cell morphology defects.",
+      "Microtubule array orientation remained normal in mutants, indicating TNO1 acts independently.",
+      "TNO1 is important for cell morphology maintenance in mature roots and hypocotyl bases.",
+      "TGN-localized SNARE machinery contributes to appropriate epidermal cell expansion."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5387210/"
+  },
+  {
+    "id": "plant002",
+    "title": "Biomass Production of the EDEN ISS Space Greenhouse in Antarctica During the 2018 Experiment Phase",
+    "tags": ["growth", "biomass", "environment", "agriculture"],
+    "short_summary": "EDEN ISS greenhouse biomass production in Antarctica",
+    "full_summary": "The EDEN ISS space-analog greenhouse in Antarctica was operated from February to November 2018 to study plant cultivation for future human space missions. Researchers grew 26 different crops on a 12.5 m² area, focusing on lettuce, leafy greens, and fresh vegetables. The study recorded edible and inedible biomass, dry weight ratios, and environmental conditions such as light intensity, temperature, humidity, and photoperiod. They tracked crop performance across multiple cycles and cultivars, including leafy greens, lettuce varieties, and herbs, to evaluate overall productivity and growth characteristics under controlled conditions.",
+    "key_findings": [
+      "A total of 268 kg of edible biomass was produced, primarily cucumbers (67 kg), lettuce (56 kg), leafy greens (49 kg), and tomatoes (50 kg).",
+      "Yearly productivity was 27.4 kg/m² or 0.075 kg/(m²*d).",
+      "Leafy greens performance varied by cultivar and light intensity, with mizuna and high-light arugula performing best.",
+      "Lettuce biomass varied across four varieties, with Waldmann’s Green producing the most per tray.",
+      "Herbs (basil, chives, parsley) had similar edible biomass production, with parsley and basil slightly ahead of chives.",
+      "Dry inedible biomass totaled roughly 11.2 kg (excluding miscellaneous crops)."
+    ],
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7264257/"
+  },
+  {
+    "id": "plant003",
+    "title": "Bread Wheat in Space Flight: Is There a Difference in Kernel Quality?",
+    "tags": ["growth", "seed quality", "grain", "microgravity"],
+    "short_summary": "Wheat kernels grow surprisingly well in space!",
+    "long_summary": "Scientists grew Super Dwarf wheat in a growth chamber on the International Space Station and compared the kernels to wheat grown on Earth. They measured kernel size, weight, starch granules, and protein layers to see if microgravity affected the quality of the grain. Overall, the kernels looked normal, with only slight differences in weight, starch composition, and aleurone layer cell width. The study suggests that wheat can produce good-quality grain in space under controlled conditions, and computer scanning could help detect subtle asymmetries in kernels.",
+    "key_findings": [
+      "ISS-grown kernels were slightly smaller and lighter than Earth-grown ones, but largely uniform and symmetrical.",
+      "Starch granules A were longer in space-grown kernels, while type B granules were slightly more abundant on Earth, indicating minor baking quality differences.",
+      "Aleurone layer cells in space-grown kernels were thinner, suggesting lower protein content, but overall kernel quality was preserved."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10780891/"
+  },
+  {
+    "id": "plant004",
+    "title": "Microbiological and Nutritional Analysis of Lettuce Crops Grown on the International Space Station",
+    "tags": ["growth", "nutrition", "microbiome", "safety"],
+    "short_summary": "Space-grown lettuce is safe to eat and still nutritious!",
+    "long_summary": "Scientists grew red romaine lettuce on the International Space Station and compared it to lettuce grown on Earth. They analyzed bacteria and fungi on leaves and roots, checked for pathogens, and measured nutrient and antioxidant content. The study found that the lettuce was microbiologically safe, with no human pathogens detected, and that elemental and phenolic levels varied slightly depending on growth conditions. These results support growing fresh, edible lettuce in space to supplement astronauts’ diets.",
+    "key_findings": [
+      "Microbial communities on ISS-grown lettuce were diverse but contained no harmful human pathogens.",
+      "Leaf and root tissues showed differences in bacterial and fungal composition compared to Earth-grown controls.",
+      "Nutrient levels (like Fe, K, Na, P, S, Zn) and phenolics varied slightly, but antioxidant capacity remained stable."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7067979/"
+  },
+  {
+    "id": "plant005",
+    "title": "Recent transcriptomic studies to elucidate the plant adaptive response to spaceflight and to simulated space environments",
+    "tags": ["growth", "gene expression", "stress", "adaptation"],
+    "short_summary": "How plants tweak their genes to survive in space!",
+    "long_summary": "Scientists reviewed studies analyzing how plants adapt to spaceflight and simulated microgravity by examining changes in gene expression. Using transcriptomics, they found that space conditions trigger responses in cell walls, oxidative stress pathways, defense mechanisms, and photosynthesis. Different plant species, ecotypes, and organs respond uniquely, and factors like light quality, gravity level, and exposure duration affect gene expression. These insights help researchers understand how to select and engineer plants for future space life support systems.",
+    "key_findings": [
+      "Microgravity and cosmic radiation trigger stress-related gene expression changes in plants.",
+      "Red light and environmental cues modulate adaptive responses, including flowering and oxidative stress pathways.",
+      "Responses vary by plant type, organ, and genetic background, highlighting the complexity of adaptation."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9287483/"
+  },
+  {
+    "id": "plant006",
+    "title": "Comparative transcriptomics indicate changes in cell wall organization and stress response in seedlings during spaceflight",
+    "tags": ["growth", "gene expression", "stress", "cell wall"],
+    "short_summary": "Space makes plant cell walls and stress genes act differently!",
+    "long_summary": "Researchers studied how Arabidopsis seedlings grown in space during the STS-131 mission change their gene expression compared to plants on Earth. They used transcriptomics and glycome profiling to analyze genes related to stress responses, DNA repair, and cell wall composition. Comparing their results with other experiments on the same mission revealed both common and variable gene expression changes, showing that even under similar conditions, spaceflight affects plants differently. Overall, space-grown seedlings showed downregulation of water stress genes and changes in cell wall-related genes.",
+    "key_findings": [
+      "Space-grown seedlings have altered expression in genes related to cell wall remodeling.",
+      "Stress response genes, especially those for water stress, were downregulated in space.",
+      "Even experiments with the same hardware showed some differences in gene expression outcomes."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5821596/"
+  },
+  {
+    "id": "plant007",
+    "title": "Mechanosensing antagonizes ethylene signaling to promote root gravitropism in rice",
+    "tags": ["growth", "hormones", "stress", "mechanosensing"],
+    "short_summary": "Rice roots use touch to keep their growth straight!",
+    "long_summary": "This study investigated how rice roots maintain proper gravitropic growth, focusing on the interplay between ethylene signaling, auxin distribution, and mechanosensing. A rice mutant, crw1, lacking functional OsCRW1/OsEBF1 showed coiled roots in hydroponics due to excessive ethylene signaling. This caused overaccumulation of OsEIL1/2 proteins, increased ROS in the root tip, disrupted auxin distribution, and reduced root cap stability. Gentle mechanical resistance, like that in water-saturated paddy soil, activated Ca2+-dependent mechanosensing, promoting degradation of OsEIL1/2 and restoring gravitropic growth. The study highlights how mechanosensing balances ethylene-auxin signaling and suggests natural variation in OsCRW1 levels can influence stress resilience and root growth behavior.",
+    "key_findings": [
+      "Loss of OsCRW1/OsEBF1 in rice leads to excessive ethylene signaling and root coiling in hydroponics.",
+      "Ethylene overactivation increases ROS in root tips, destabilizing root caps and disrupting auxin distribution.",
+      "Mild mechanical resistance triggers Ca2+ signaling, antagonizes ethylene signaling, and restores gravitropism.",
+      "Natural variation in OsCRW1 expression or function influences root growth and stress response.",
+      "Mechanosensing plays a crucial role in balancing hormone signaling for proper root orientation."
+    ],
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008199/"
+  }
+]
